@@ -1,0 +1,9 @@
+requests
+numpy
+pandas
+python-binance
+tweepy
+praw
+vaderSentiment
+pytrends
+instaloader
