@@ -1,12 +1,10 @@
-import os
-import time
-import logging
-import numpy as np
-import pandas as pd
-from binance.client import Client
-import tweepy
-import praw
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from pytrends.request import TrendReq
-import instaloader
-from threading import Lock, Thread
+requests
+numpy
+pandas
+python-binance
+tweepy
+praw
+vaderSentiment
+pytrends
+instaloader
+python-dotenv
